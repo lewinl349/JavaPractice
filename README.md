@@ -1,0 +1,2 @@
+# JavaPractice
+Working with IntelliJ
